@@ -28,15 +28,16 @@ Zeigt einem Besucher alle Auszeichnungen an, die ihm unter der angegeben Email v
 
 ## Vorschlag für das Emailtemplate auf der Konfigurationsseite:
 
-Das folgende Zertifikat
+    Das folgende Zertifikat
+    <img alt="" src="{BADGE_IMAGE_URL}" />
+    <strong><a href="{BADGE_URL}">{AWARD_TITLE}</a></strong>
+    <em><strong>{BADGE_DESCRIPTION}</strong></em>
+    
+    {EVIDENCE}.
 
-<img alt="" src="{BADGE_IMAGE_URL}" />
-<strong><a href="{BADGE_URL}">{AWARD_TITLE}</a></strong>
-<em><strong>{BADGE_DESCRIPTION}</strong></em>
+    <strong>Die Verleihung des Zertifikates wurde <a href="{AWARD_URL}">hier veröffentlicht</a> und kann <a href="{AWARD_ACCEPT_URL">über diesen Link</a>angennommen werden</strong>.
+   
 
-{EVIDENCE}.
-
-<strong>Die Verleihung des Zertifikates wurde <a href="{AWARD_URL}">hier veröffentlicht</a> und kann <a href="{AWARD_ACCEPT_URL">über diesen Link</a>angennommen werden</strong>.
 
 Dieses Zertifikat ist kompatibel mit dem <a href="http://openbadges.org/about/">OpenBadge</a> Standard von Mozilla.
 
