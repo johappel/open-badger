@@ -20,11 +20,10 @@ Benötigt Wordpress ab Version 3.4 (getestet bis Version 3.6.1)
 Zeigt einem Besucher alle Auszeichnungen an, die ihm unter der angegeben Email verliehen wurden.
 
 ##FAQ
-
-    #Welche Sprachen werden unterstützt?
-    Übersetzungen DE / EN . Eigene Übersetzungen können im Verzeichnis /languages/ des Plugin Ordners hinzugefügt werden.
-    #Ist das Plugin multisite kompatibel?
-    Ja!
+####Welche Sprachen werden unterstützt?
+Übersetzungen DE / EN . Eigene Übersetzungen können im Verzeichnis /languages/ des Plugin Ordners hinzugefügt werden.
+####Ist das Plugin multisite kompatibel?
+Ja!
 
 ## Vorschlag für das Emailtemplate auf der Konfigurationsseite:
 
@@ -35,12 +34,22 @@ Zeigt einem Besucher alle Auszeichnungen an, die ihm unter der angegeben Email v
     
     {EVIDENCE}.
 
-    <strong>Die Verleihung des Zertifikates wurde <a href="{AWARD_URL}">hier veröffentlicht</a> und kann <a href="{AWARD_ACCEPT_URL">über diesen Link</a>angennommen werden</strong>.<br>
-    Dieses Zertifikat ist kompatibel mit dem <a href="http://openbadges.org/about/">OpenBadge</a> Standard von Mozilla.<br><br>
-    Wir empfehlen, dieses Zertifikat als Beleg Ihrer Kompetenzen zu Ihrer <a href="http://backpack.openbadges.org">BadgePack</a> hinzuzufügen, um sich damit auch in anderen Netzwerken ausweisen zu können.<br><br>
-    Registrieren Sie sich kostenlos bei Mozilla und richten Sie sich Ihren Kompetenz-Rucksack ein: <a href="http://backpack.openbadges.org">Mozilla BackPack</a>.
-    <hr />
-    <strong>Zertifikat jetzt <a href="{AWARD_ACCEPT_URL}">{BADGE_TITLE} annehmen</a></strong>.
-    <hr />
-    Aussteller des Zertifkikates (Offizieller OpenBadge Issuer):
-    <em>{ISSUER_ORG}{ISSUER_NAME}{ISSUER_CONTACT}</em>
+    <strong>Die Verleihung des Zertifikates wurde <a href="{AWARD_URL}">hier veröffentlicht</a> und kann <a href="{AWARD_ACCEPT_URL">über diesen Link</a>angennommen werden</strong>.
+   
+
+
+Dieses Zertifikat ist kompatibel mit dem <a href="http://openbadges.org/about/">OpenBadge</a> Standard von Mozilla.
+
+Wir empfehlen, dieses Zertifikat als Beleg Ihrer Kompetenzen zu Ihrer <a href="http://backpack.openbadges.org">BadgePack</a> hinzuzufügen, um sich damit auch in anderen Netzwerken ausweisen zu können.
+Registrieren Sie sich kostenlos bei Mozilla und richten Sie sich Ihren Kompetenz-Rucksack ein: <a href="http://backpack.openbadges.org">Mozilla BackPack</a>.
+
+<hr />
+
+<strong>Zertifikat jetzt <a href="{AWARD_ACCEPT_URL}">{BADGE_TITLE} annehmen</a></strong>.
+
+<hr />
+
+Aussteller des Zertifkikates (Offizieller OpenBadge Issuer):
+<em>{ISSUER_ORG}
+{ISSUER_NAME}
+{ISSUER_CONTACT}</em>
