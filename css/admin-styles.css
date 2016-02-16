@@ -1,0 +1,55 @@
+#openbadger-award-actions {
+    padding: 6px 0 0;
+
+}
+
+#poststuff #openbadger-award-information .inside {
+    padding: 0;
+    margin: 0;
+}
+
+#post-body .openbadger-award-section {
+    border-left-color: #EEE;
+}
+
+.openbadger-award-section {
+    padding: 6px 10px 8px;
+    border-width: 1px 0;
+    border-style: solid;
+    border-top-color: white;
+    border-bottom-color: #DFDFDF;
+}
+
+.openbadger-award-section:first-child {
+    border-top-width: 0;
+}
+
+.openbadger-award-section:last-child {
+    border-bottom-width: 0;
+}
+
+#openbadger-badge-descriptiondiv {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#openbadger-badge-descriptiondiv #openbadger-badge-description {
+    padding: 3px 8px;
+    font-size: 1.7em;
+    line-height: 100%;
+    width: 100%;
+    outline: 0;
+    border-color: #CCC;
+    background-color: white;
+}
+
+#openbadger-badge-descriptiondiv label {
+    cursor: text;
+}
+
+#openbadger-badge-descriptiondiv #openbadger-badge-description-prompt-text {
+    color: #BBB;
+    position: absolute;
+    font-size: 1.7em;
+    padding: 8px 10px;
+}

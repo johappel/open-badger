@@ -1,0 +1,29 @@
+#openbadger-award-actions-errors, #openbadger-award-browser-support {
+    display: none;
+}
+
+.openbadger-award-updated, .openbadger-award-notice, .openbadger-award-error {
+    margin: 5px 0 15px;
+    padding: 0 0.6em;
+
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.openbadger-award-updated p, .openbadger-award-notice p, .openbadger-award-error p {
+    margin: 0.5em 0;
+    padding: 2px;
+}
+
+.openbadger-award-updated, .openbadger-award-notice {
+    background-color: #FFFFE0;
+    border-color: #E6DB55;
+}
+
+.openbadger-award-error {
+    background-color: #FFEBE8;
+    border-color: #C00;
+}
+

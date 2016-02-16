@@ -1,0 +1,486 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rpibadger\n"
+"POT-Creation-Date: 2013-10-21 20:49+0100\n"
+"PO-Revision-Date: 2013-10-21 20:50+0100\n"
+"Last-Translator: Joachim Happel <joachim.happel@gamil.com>\n"
+"Language-Team: rpi-virtuell <joachim.happel@gmail.com>\n"
+"Language: DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;esc_attr__;esc_html__;"
+"_e\n"
+"X-Poedit-Basepath: D:\\Workspace\\blogserver\\wp-content\\plugins\\rpi-"
+"badger\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: D:\\Workspace\\blogserver\\wp-content\\plugins\\rpi-"
+"badger\n"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:117
+#, php-format
+msgid ""
+"openBadger has been updated! Please go to the %s configuration page %s and "
+"update the database"
+msgstr ""
+"openBadger wurde geändert! Bitte gehe zur %s Konfigurationsseite %s und "
+"aktualisiere die Datenbank"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:239
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:287
+msgid "You have been awarded the \"{BADGE_TITLE}\" badge"
+msgstr "Dir wurden die Auszeichnung  \"{BADGE_TITLE}\" verliehen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:324
+msgid "Issuing Agent Name"
+msgstr "Name des ausstell. Mitarbeiters"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:336
+msgid "Issuing Organization"
+msgstr "Ausstellende Organisation"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:359
+msgid "Disable editting of issuer information for non-admins."
+msgstr "Anbieter-Optionen für Nicht - Admins unveränderbar festlegen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:368
+msgid "Contact Email Address"
+msgstr "Kontakt E-Mail"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:386
+msgid "Allow all users to bulk award badges."
+msgstr "Erlaube allen Nutzern, Massenverleihungen durchzuführen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:392
+msgid "Awarded Email Template"
+msgstr ""
+"Vorlage für die E-Mail Benachrichtigung bei der Verleihung einer "
+"Auszeichnung (Award)"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:394
+msgid ""
+"This is the email send when a badge is awarded to a user.  Valid template "
+"tags are:"
+msgstr ""
+"Diese Email wird nach der Verleihung einer Auszeichnung versendet. Gültige "
+"Vorlagen-Variablen sind:"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:397
+msgid "Only <b>bold</b> tags are avilable for the subject."
+msgstr "Nur <b>fett</b> gedruckte Variablen können im Betreff verwendet werden"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:399
+msgid "Subject"
+msgstr "Betreff"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:407
+msgid "HTML Body"
+msgstr "HTML Nachricht"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:411
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/openbadger.php:418
+msgid "Update Database"
+msgstr "Datenbank aktualisieren"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:158
+msgid "This award has already been claimed."
+msgstr "Die Auszeichnung wurde bereits von jemanden angenommen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:159
+msgid "If you believe this was done in error, please contact the"
+msgstr ""
+"Falls dies aus deiner Sicht eine ungerechtfertigte Verleihung war, "
+"kontaktiere bitte den "
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:160
+msgid "site administrator"
+msgstr "Administrator dieses Blogs"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:177
+msgid "You have successfully accepted to add your award to your backpack."
+msgstr "Die Auszeichnung wurde erfolgreich in den Mozilla Backpack übernommen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:188
+msgid "You have successfully declined to add your award to your backpack."
+msgstr ""
+"Du hast die Übernahme dieser Auszeichnung in den Mozilla Backback abgelehnt."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:215
+#, php-format
+msgid "Congratulations! The \"%1$s\" badge has been awarded to you."
+msgstr ""
+"Herzlichen Glückwunsch!<br>Wenn du den Link zu dieser Seite per E-Mail "
+"erhalten hast, wurde die Auszeichnung  \"%1$s\" an dich verliehen "
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:216
+msgid "Please choose to"
+msgstr "und nun kannst du diese Auszeichnung "
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:217
+msgid "accept"
+msgstr "annehmen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:218
+msgid "decline"
+msgstr "ablehnen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:219
+msgid "or"
+msgstr "oder"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:220
+msgid " the award"
+msgstr ""
+". Durch den Klick auf \"annehmen\" wird sie als lebenslanges Zeugnis deiner "
+"Kompetenzen zu den <a href=\"https://backpack.openbadges.org/backpack/login"
+"\">OpenBages in deinem Mozilla BackPack</a> hinzugefügt. <a href=\"http://"
+"badges.blogs.rpi-virtuell.net/open-badges/\">mehr..</a>"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:221
+msgid ""
+"Microsoft Internet Explorer is not supported at this time. Please use "
+"Firefox or Chrome to retrieve your award."
+msgstr ""
+"Derzeit wird Microsoft Internetexplorer nicht vom Mozilla BackPack "
+"unterstützt. Bitte nutze Firefox oder Chrome, um die Auszeichnung zu "
+"übernehmen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:222
+msgid "An error occured while adding this badge to your backpack."
+msgstr ""
+"Es ist ein Fehler bei dem Versuch passiert, die Auszeichnung deinem Mozilla "
+"Backpack hinzuzufügen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:244
+msgid "This award has been declined."
+msgstr "Die Auszeichnung wurde abgelehnt."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:286
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:298
+msgid "Awards"
+msgstr "Verleihungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:287
+msgid "Award"
+msgstr "Verleihung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:288
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:86
+msgid "Add New"
+msgstr "Erstellen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:289
+msgid "Add New Award"
+msgstr "Neue Verleihung einer Auszeichnung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:290
+msgid "Edit Award"
+msgstr "Verleihung bearbeiten"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:291
+msgid "New Award"
+msgstr "Neue Verleihung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:292
+msgid "All Awards"
+msgstr "Verleihungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:293
+msgid "View Award"
+msgstr "Verleihung anzeigen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:294
+msgid "Search Awards"
+msgstr "Verleihung suchen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:295
+msgid "No awards found"
+msgstr "Keine Verleihung gefunden"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:296
+msgid "No award found in Trash"
+msgstr "Kene Verleihung im Papierkorb"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:451
+#, php-format
+msgid "Badge Awarded: %1$s"
+msgstr "Auszeichnung: %1$s"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:488
+msgid "You must specify award evidence."
+msgstr "Du musst die Verleihung begründen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:490
+msgid "You must choose a badge."
+msgstr "Du musst eine Auszeichnung (Badge) auswählen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:492
+msgid "You must enter an email address for the award."
+msgstr ""
+"Du musst eine Emailadresse der Peron angeben, die die  Auszeichnung bekommen "
+"soll."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:509
+msgid "You must choose a badge to award."
+msgstr "Du musst eien Auszeichnung wählen, die verleihen werden soll."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:520
+msgid "You must specify at least one email address."
+msgstr "Du musst mindestens eine Emailadresse angeben."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:526
+#, php-format
+msgid "The email address \"%1$s\" is not valid."
+msgstr "Die Emailaddresse \"%1$s\" ist ungültig."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:532
+msgid "You must enter some evidence for the awards."
+msgstr ""
+"Du musst einige Belege angeben, die die Verleihung der Auszeichnung "
+"begründen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:565
+msgid "Badges were awarded successfully. You can view a list of"
+msgstr ""
+"Auszeichnung wurden erfolgreich verliehen. Du kannst eine Liste anzeigen "
+"lassen von "
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:566
+msgid "all awards"
+msgstr "alle Verleihungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:579
+msgid "Award Badges in Bulk"
+msgstr "Massenverleihung von Auszeichnungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:588
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:85
+msgid "Badge"
+msgstr "Auszeichnung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:622
+msgid "Email Address"
+msgstr "E-Mail Adressen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:626
+msgid "Separate multiple email addresses with commas, or put one per line."
+msgstr ""
+"Trenne mehrere E-Mailadressen durch Komma oder schreib sie untereinander "
+"jeweils eine Zeile pro Email"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:631
+msgid "Evidence"
+msgstr "Gründe für die Verleihung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:636
+msgid "Expiration Date"
+msgstr "Verfallsdatum"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:640
+msgid "Optional. Enter as \"YY-MM-DD\""
+msgstr "Optional. Gib das Datum in folgendem Format ein:  \"YY-MM-DD\""
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:645
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:712
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:292
+msgid "Invalid"
+msgstr "Ungültig"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:720
+msgid "Issued To Email"
+msgstr "Auszeichnung an Email"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:721
+msgid "Award Status"
+msgstr "Status"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/awards.php:745
+msgid "Award Information"
+msgstr "Daten - Zuordnung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:84
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:96
+msgid "Badges"
+msgstr "Auszeichnungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:87
+msgid "Add New Badge"
+msgstr "Neue Auszeichnung erstellen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:88
+msgid "Edit Badge"
+msgstr "Auszeichnung bearbeiten"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:89
+msgid "New Badge"
+msgstr "Neue Auszeichnung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:90
+msgid "All Badges"
+msgstr "Alle Auszeichnungen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:91
+msgid "View Badge"
+msgstr "Auszeichnung anzeigen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:92
+msgid "Search Badges"
+msgstr "Suche Auszeichnung"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:93
+msgid "No badges found"
+msgstr "Keine Auszeichnung gefunden"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:94
+msgid "No badges found in Trash"
+msgstr "Keine Auszeichnung im Papierkorb"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:172
+msgid "You must set a badge image."
+msgstr "Du musst ein Auszeichnungsbild (Badge) definieren."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:174
+msgid "You must set a badge image that is a PNG file."
+msgstr "Du musst ein Auszeichnungsbild (Badge) im PNG-Format definieren."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:176
+msgid "You must enter a badge description."
+msgstr "Du musst eine Beschreibung eingeben."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:178
+msgid "The description cannot be longer than 128 characters."
+msgstr "Die Beschreibung darf max 128 Zeichen lang sein."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:180
+msgid "You must enter the badge criteria."
+msgstr ""
+"Du musst einige Kriterein im Editor eingeben, die für die Verleihung der "
+"Auszeichnung erfüllt werden müssen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:323
+msgid "Badge Image"
+msgstr "Auszeichnungsbild (Badge)"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges.php:361
+msgid "Badge Version"
+msgstr "Zertifikatsversion (z.B: 1.0)"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:35
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:36
+msgid "Media Library"
+msgstr "Mediothek"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:51
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:52
+msgid "Badge Designer"
+msgstr "Badge Designer"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:60
+#, php-format
+msgid ""
+"Use the %s to upload or select an existing image. Or use the %s to create a "
+"new one"
+msgstr ""
+"Nutze ein vorhandenes Bild aus der %s oder erstelle ein neues mit dem %s. "
+"Nach der Erstellung mit \"Publish Badge\" übernehmen"
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:168
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "Die max. Dateigröße laut php.ini für den Upload wurde überschritten."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:169
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+"Die max. Dateigröße MAX_FILE_SIZE für den Upload, die in dem HTML-Formular "
+"spezifizeirt wurde, ist überschritten worden."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:170
+msgid "The uploaded file was only partially uploaded."
+msgstr "Der Upload ist nicht vollständig."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:171
+msgid "No file was uploaded."
+msgstr "Es wurde keine Datei hochgeladen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:173
+msgid "Missing a temporary folder."
+msgstr "Der Temporäre Ordner konnte nicht gefunden werden."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:174
+msgid "Failed to write file to disk."
+msgstr "Fehler beim Schreibforgang auf dem Server."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:175
+msgid "File upload stopped by extension."
+msgstr ""
+"Der Uploadvorgang wurde aufgrund der Dateiendung oder des Formates "
+"abgebbrochen."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:192
+msgid "Invalid form submission."
+msgstr "Ungültige Daten."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:202
+msgid "File is empty. Please upload something more substantial."
+msgstr "Die Datei war leer. Bitte versuche es erneut."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:204
+msgid ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"File is empty. Please upload something more substantial. This error could "
+"also be caused by uploads being disabled in your php.ini or by post_max_size "
+"being defined as smaller than upload_max_filesize in php.ini."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:219
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Sorry, this file type is not permitted for security reasons."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:239
+#, php-format
+msgid "The uploaded file could not be moved to %s."
+msgstr "The uploaded file could not be moved to %s."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:269
+msgid "Error decoding the badge designer data."
+msgstr "Fehler beim Dekodieren der Daten aus dem Badge Designer."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:278
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:285
+msgid "Error decoding the badge designer image data."
+msgstr "Fehler beim Dekodieren der Daten aus dem Badge Designer Bilddaten."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:297
+msgid "Error decoding the badge designer image data: bad base64 data."
+msgstr ""
+"Fehler beim Dekodieren der Daten aus dem Badge Designer: fehlerhafte base64 "
+"Kodierung."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:304
+msgid "Error decoding the badge designer image data: unknown encoding."
+msgstr ""
+"Fehler beim Dekodieren der Daten aus dem Badge Designer: unbekannte "
+"Kodierung."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:321
+msgid "Error saving the badge designer image."
+msgstr "Fehler beim Speichern der Bilddaten aus dem Badge Designer."
+
+#: D:\Workspace\blogserver\wp-content\plugins\rpi-badger/includes/badges_designer.php:419
+msgid "Unable to set the badge as the featured image."
+msgstr "Das Bild konnte nicht als Artikelbild (Badge) gesetzt werden."
+
+#~ msgid "Description"
+#~ msgstr "Gib hier die Kurzbeschreibung ein "
