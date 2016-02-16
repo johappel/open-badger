@@ -10,7 +10,7 @@ Benötigt Wordpress ab Version 3.4 (getestet bis Version 3.6.1)
 2. Aktiviere das OpenBadger plugin wie jedes andere Plugin auch (WPBadger sollte nicht aktiv sein, um konflikte zu vermmeiden).
 3. Konfiguriere das Plugin im Dashboard -> Einstellungen -> OpenBadger.
 
-##Vergabe von Zertifikaten / AUszeichnungn /Badges
+##Vergabe von Zertifikaten / Auszeichnungn /Badges
 1. Erstelle als erstes eine neue Auszeichnung (Titel, Beschreibung und Kriterien sowie ein Bild sind Pflicht)
 2. Verleihe dieses Zertikat an eine Person, in dem du rechts in der InfoBox das gewünschte Zertifikat auswählst und die Emailadresse der Person, der du das Zertifikat verleihen möchtest. Belege im Inhalt, warum die Person das Zertifikat verliehen bekommt (Evidenz)
 3. Die Person bekommt mit dem Abspeichern der Verleihung eine Email mit der Anleitung, wie sich dieses Zertifikat in ihren OpenBadge BackPack speichern kann.
